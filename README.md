@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Meu nome é **Babi** e eu faço mecânica, mas pd me sequestrou. Eu amo a minha mulher.
+- s
+- o
+- c
+- o
+- r
+- r
+- o
+- !
+
 <!--
 **babi-de-pd/babi-de-pd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
