@@ -10,6 +10,8 @@ Meu nome é **Babi** e eu faço mecânica, mas pd me sequestrou. Eu amo a minha 
 - o
 - !
 
+- A lua é muito legal adoro ela
+
 <!--
 **babi-de-pd/babi-de-pd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
